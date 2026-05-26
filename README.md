@@ -179,7 +179,7 @@ Módulos encargados de almacenar y exportar audio.
 # 📂 Estructura del proyecto
 
 ```bash
-voice-activity-detection-unity/
+LibreriaVADUnityDeteccionVoz/
 │
 ├── Assets/
 │   ├── Mochineko/
@@ -369,7 +369,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## Mochi Neko — Unity Audio Developer
+## Isai Reyes — Unity Audio Developer
 
 Desarrollador enfocado en sistemas de audio, procesamiento de voz y herramientas avanzadas para Unity 🚀
 
